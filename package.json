@@ -1,6 +1,6 @@
 {
   "name": "@liqd-js/object-hash",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "author": "radixxko",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/liqd-js/object-hash.git"
   },
   "dependencies": {
-    "@liqd-js/fast-object-hash": "^1.0.1"
+    "@liqd-js/fast-object-hash": "^1.0.2"
   },
   "devDependencies": {
     "typescript": "^5.3.3",
